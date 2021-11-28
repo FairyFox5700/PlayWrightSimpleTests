@@ -7,5 +7,6 @@
     &lt;TestId&gt;NUnit3x::3A2F2718-F622-4CE8-BE69-56342FDB4A70::net5.0::PlayWrightNUnit.CartSpec.Login_WithUnExistingEmail_ShouldAlertMessage&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3A2F2718-F622-4CE8-BE69-56342FDB4A70::net5.0::PlayWrightNUnit.CartSpec.Login_Delete_ShouldAlertMessage&lt;/TestId&gt;&#xD;
     &lt;TestId&gt;NUnit3x::3A2F2718-F622-4CE8-BE69-56342FDB4A70::net5.0::PlayWrightNUnit.CartSpec&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;NUnit3x::3A2F2718-F622-4CE8-BE69-56342FDB4A70::net5.0::PlayWrightNUnit.LoginSpec&lt;/TestId&gt;&#xD;
   &lt;/TestAncestor&gt;&#xD;
 &lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
